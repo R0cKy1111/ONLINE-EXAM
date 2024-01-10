@@ -7,3 +7,5 @@ IDEs used in this: PhpMyAdmin, Netbeans, Wamp Server
 Languges used: PHP, Javascript, CSS, HTML
 
 Make sure dbconnect is the same name as your database name
+
+Plese replace all oesm with your database name 
